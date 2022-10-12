@@ -1,6 +1,7 @@
 # Yuthung
 ## 简介
-![Yuthung](/Photos/Yuthung.jpg)     
+<div align="center">
+   <img width="160" src="/Photos/Yuthung.jpg" alt="logo"></br>   
 Yuthung(月鸿)为一个用于Unturned(未转变者)的前置插件，该前置插件将会提供更多的api方便插件开发者进行开发    
 ## [release](https://github.com/1284853081/Yuthung/tags)
 ## 安装
